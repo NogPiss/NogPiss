@@ -3,5 +3,5 @@
 
 - 📖 Desenvolvimento de sistemas
 - 🏫 Etec HAS
-- 2/3
+- 3/3
 
